@@ -3,9 +3,9 @@
 
 #define XXHR_VERSION "v0.0.1"
 
-#define NOCRYPT
-#ifndef BOOST_USE_WINDOWS_H 
-#define BOOST_USE_WINDOWS_H 
+# undef X509_NAME
+# undef X509_CERT_PAIR
+# undef X509_EXTENSIONS
 #endif
 #include "api.hpp"
 #include "auth.hpp"
