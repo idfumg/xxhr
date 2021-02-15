@@ -2,9 +2,6 @@
 #define XXHR_XXHR_H
 
 #define XXHR_VERSION "v0.0.1"
-
-#endif
-
 #if defined(_WIN32)
 # undef X509_NAME
 # undef X509_CERT_PAIR
@@ -19,3 +16,4 @@
 #include "session.hpp"
 
 #endif
+
