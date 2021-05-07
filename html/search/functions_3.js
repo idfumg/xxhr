@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['get',['GET',['../namespacexxhr.html#a69bafa24d7c33b004a7de863f52b97cb',1,'xxhr']]]
+  ['get_60',['GET',['../namespacexxhr.html#a640bf69db23c2f3560f53fa11bb0293d',1,'xxhr']]]
 ];

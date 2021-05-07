@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['synchronous_20helper',['Synchronous Helper',['../syncapi-cpp.html',1,'']]]
+  ['synchronous_20helper_82',['Synchronous Helper',['../syncapi-cpp.html',1,'']]]
 ];

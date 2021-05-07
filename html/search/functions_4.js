@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['head',['HEAD',['../namespacexxhr.html#ab253341e2ee3ad4fff56e1293e88c84a',1,'xxhr']]],
-  ['https',['https',['../structxxhr_1_1util_1_1url__parts.html#ab2c54ccb25844ac91b116c397ca1776a',1,'xxhr::util::url_parts']]]
+  ['head_61',['HEAD',['../namespacexxhr.html#a6c8f89e796b9ba18a817d427cfdaeabb',1,'xxhr']]],
+  ['https_62',['https',['../structxxhr_1_1util_1_1url__parts.html#a1bf5fa5a821469374aa340c1957af75e',1,'xxhr::util::url_parts']]]
 ];

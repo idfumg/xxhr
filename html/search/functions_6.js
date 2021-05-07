@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['options',['OPTIONS',['../namespacexxhr.html#ab7f13f2e8a6b911578fec6f83490b9ee',1,'xxhr']]],
-  ['string',['string',['../classxxhr_1_1Error.html#a7ec7290e0ce80034f4cd78e561b9dc4f',1,'xxhr::Error']]]
+  ['options_64',['OPTIONS',['../namespacexxhr.html#a449dd25f525d8452c1eaf55662ccebfd',1,'xxhr']]],
+  ['string_65',['string',['../classxxhr_1_1Error.html#a32b09ce45bb7aeaf76990a4753e0a616',1,'xxhr::Error']]]
 ];

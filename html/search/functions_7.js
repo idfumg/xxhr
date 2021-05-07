@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['patch',['PATCH',['../namespacexxhr.html#a16d0d108e2cf26cee47d3eae53db302b',1,'xxhr']]],
-  ['post',['POST',['../namespacexxhr.html#acf50579944d91bb1665206665211ad43',1,'xxhr']]],
-  ['put',['PUT',['../namespacexxhr.html#aa8bbd79aa18801e612d8d137cd719c7b',1,'xxhr']]]
+  ['patch_66',['PATCH',['../namespacexxhr.html#a6acf6522d09638bd98ca71591ff29399',1,'xxhr']]],
+  ['post_67',['POST',['../namespacexxhr.html#af2d16f24d2bc7e9467b4c7731409a808',1,'xxhr']]],
+  ['put_68',['PUT',['../namespacexxhr.html#ad62d1981f00bc515500bda705c78e21d',1,'xxhr']]]
 ];
